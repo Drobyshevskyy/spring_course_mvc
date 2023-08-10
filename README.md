@@ -1,5 +1,4 @@
 <h2>Overview</h2>
-<br>
 A simple web application that allows the first page to link to a second page that requires certain employee data to be entered. This page validates data such as email, phone number, salary, name and surname. Besides the usual textboxes, the page also has radiobuttons and checkboxes to enter some data. After successfully entering all the data and clicking on the "ok" button, we move to the third page, where the application displays on the screen all the information we have entered 
 <br>
 <br>
